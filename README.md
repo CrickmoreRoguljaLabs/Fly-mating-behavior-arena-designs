@@ -1,7 +1,7 @@
 # Fly-mating-behavior-arena-designs
 Arena designs for fly mating behaviors
 
-These pdf files are in the Adobe Illustrator format and are designed to be used with an acrylic cutter. The "syntax" of the cutter are explained in magenta in each pdf file. These files can be adapted for other shop methods.
+These .pdf files are in the Adobe Illustrator format and are designed to be used with an acrylic cutter to make the arena parts. The "syntax" of the cutter are explained in magenta in each pdf file. These files can be adapted for other shop methods.
 
 The .xlsx file lists the acrylic boards we used to manufacture the arenas.
 
